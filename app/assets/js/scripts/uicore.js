@@ -49,7 +49,7 @@ if(!isDev){
                 loggerAutoUpdaterSuccess.log('New update available', info.version)
                 
                 if(process.platform === 'darwin'){
-                    info.darwindownload = `https://github.com/dscalzi/HeliosLauncher/releases/download/v${info.version}/helioslauncher-setup-${info.version}.dmg`
+                    info.darwindownload = `https://github.com/Conquest-Reforged/ConquestReforgedLauncher/releases/download/v${info.version}/Conquest-Reforged-Launcher-setup-${info.version}.exe.blockmap`
                     showUpdateUI(info)
                 }
                 
