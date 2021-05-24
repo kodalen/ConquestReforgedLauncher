@@ -35,6 +35,27 @@ This is not an exhaustive list. Download and install the launcher to gauge all i
 
 #### Like the project? Leave a ⭐ star on the repository!
 
+## Downloads
+
+You can download from [GitHub Releases](https://github.com/Conquest-Reforged/ConquestReforgedLauncher/releases)
+
+#### Latest Release
+
+[![](https://img.shields.io/github/release/Conquest-Reforged/ConquestReforgedLauncher.svg?style=flat-square)](https://github.com/Conquest-Reforged/ConquestReforgedLauncher/releases/latest)
+
+#### Latest Pre-Release
+[![](https://img.shields.io/github/release/Conquest-Reforged/ConquestReforgedLauncher/all.svg?style=flat-square)](https://github.com/Conquest-Reforged/ConquestReforgedLauncher/releases)
+
+**Supported Platforms**
+
+If you download from the [Releases](https://github.com/Conquest-Reforged/ConquestReforgedLauncher/releases) tab, select the installer for your system.
+
+| Platform | File |
+| -------- | ---- |
+| Windows x64 | `Conquest-Reforged-Launcher-setup-VERSION.exe` |
+| macOS | `Conquest-Reforged-Launcher-VERSION.dmg` |
+| Linux x64 | `Conquest-Reforged-Launcher-setup-VERSION.AppImage` |
+
 ## Console
 
 To open the console, use the following keybind.
