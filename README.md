@@ -1,14 +1,14 @@
 <p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="aventium softworks"></p>
 
-<h1 align="center">Conquest Reforged Launcher</h1>
+<h1 align="center">Kodalen Conquest Reforged Launcher</h1>
 
 <em><h5 align="center">(Helios Launcher with modifications by [ArdaCraft](https://github.com/ArdaCraft/ArdaCraftLauncher))</h5></em>
-[<p align="center"><img src="https://img.shields.io/travis/Conquest-Reforged/ConquestReforgedLauncher.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/Conquest-Reforged/ConquestReforgedLauncher) [<img src="https://img.shields.io/github/downloads/Conquest-Reforged/ConquestReforgedLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/Conquest-Reforged/ConquestReforgedLauncher/releases) </p>
+[<p align="center"><img src="https://img.shields.io/travis/Conquest-Reforged/ConquestReforgedLauncher.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/Conquest-Reforged/ConquestReforgedLauncher) [<img src="https://img.shields.io/github/downloads/Conquest-Reforged/ConquestReforgedLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/kodalen/KodalenConquestReforgedLauncher/releases) </p>
 
 <p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
 
-![Screenshot 1](https://i.imgur.com/EeWD6HA.png)
-![Screenshot 2](https://i.imgur.com/Qw7yxCm.png)
+![Screenshot 1](https://i.imgur.com/9mZxdZH.png)
+![Screenshot 2](https://i.imgur.com/KcZOM7P.png)
 
 ## Features
 
@@ -41,10 +41,10 @@ You can download from [GitHub Releases](https://github.com/Conquest-Reforged/Con
 
 #### Latest Release
 
-[![](https://img.shields.io/github/release/Conquest-Reforged/ConquestReforgedLauncher.svg?style=flat-square)](https://github.com/Conquest-Reforged/ConquestReforgedLauncher/releases/latest)
+[![](https://img.shields.io/github/release/Conquest-Reforged/ConquestReforgedLauncher.svg?style=flat-square)](https://github.com/kodalen/KodalenConquestReforgedLauncher/releases/latest)
 
 #### Latest Pre-Release
-[![](https://img.shields.io/github/release/Conquest-Reforged/ConquestReforgedLauncher/all.svg?style=flat-square)](https://github.com/Conquest-Reforged/ConquestReforgedLauncher/releases)
+[![](https://img.shields.io/github/release/Conquest-Reforged/ConquestReforgedLauncher/all.svg?style=flat-square)](https://github.com/kodalen/KodalenConquestReforgedLauncher/releases)
 
 **Supported Platforms**
 
