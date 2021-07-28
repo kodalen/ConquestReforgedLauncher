@@ -537,7 +537,7 @@ exports.pullRemote = function(){
         return exports.pullLocal()
     }
     return new Promise((resolve, reject) => {
-        const distroURL = 'https://Conquest-Reforged.github.io/launcher/distribution.json'
+        const distroURL = 'https://kodalen.github.io/launcher/distribution.json'
         const opts = {
             url: distroURL,
             timeout: 2500
